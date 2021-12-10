@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejemploslayout</string>
+    <string name="mi_cartera">Mi Cartera</string>
+    <string name="sasuke_uchiha">Sasuke Uchiha</string>
+    <string name="eur">EUR</string>
+    <string name="_192_42">192, 42</string>
+    <string name="savings">Savings</string>
+    <string name="main_income">Main Income</string>
+    <string name="usd">USD</string>
+    <string name="_994_10">994, 10</string>
+    <string name="_321_42">321,42</string>
+    <string name="expense">Expense</string>
+    <string name="assets">Assets</string>
+    <string name="_3_892_13">3.892, 13</string>
+</resources>
